@@ -1,0 +1,49 @@
+{
+    "user": [
+        {
+            "userId": "tufyog857564sesde5r",
+            "BusinessName": "folarin",
+            "email": "fmk@gmail.com",
+            "userRoles": ["super admin"]
+        },
+        {
+            "userId": "tufyog857564sesde5rhjjh",
+            "BusinessName": "JOHN DOE",
+            "email": "JD@gmail.com",
+            "userRoles": ["super user"]
+        },
+        {
+            "userId": "tufyog75jfhyyi64sesde5r",
+            "BusinessName": "Caleb Bright",
+            "email": "CB@gmail.com",
+            "userRoles": ["super admin"]
+        }
+    ],
+    "kyc":[
+        {
+            "comapnyName": "folarin",
+            "businessCategory": "enterpreneur",
+            "vatNumber": "",
+            "businessPhoneNumber": "08133318545",
+            "webPage": "http:kay",
+            "iDontHave": false,
+            "addressLine1": "N0 1",
+            "addressLine2": "apata",
+            "city": "Ibadan",
+
+            "firstName": "Kehinde",
+            "lastName": "Folarin",
+            "registeredHomeAddress": "Arowona, Oyo",
+            "piCity": "Oyo",
+            "country": "Nigeria",
+
+            "accountName": "folarin",
+            "bvn": "2345654367",
+            "accCountry": "Nigeria"
+
+
+        }
+        
+    ]
+
+}
